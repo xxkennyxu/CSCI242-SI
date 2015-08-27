@@ -1,10 +1,10 @@
 # CSCI242-Recitation
 
-It was pointed out that ArrayLists can be instantiated also, by leaving out the <Double> in the constructor call like below:
+It was pointed out that ArrayLists can be instantiated by leaving out the <Double> in the constructor call like below:
 ```
 ArrayList<Double> gradePointAverages = new ArrayList();
 ```
-Though this this possible because Java will imply that you are creating a <Double> ArrayList due to the left-handside but,
+Though this possible because Java will imply that you are creating a <Double> ArrayList due to the left-handside but,
 this leaves room for error, as the type does not SPECIFICALLY get declared in the call to the constructor
 
 ##### How would you create an ArrayList that holds several grade point averages?
