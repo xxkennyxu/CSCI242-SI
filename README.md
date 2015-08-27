@@ -1,4 +1,5 @@
 # CSCI242-Recitation
+## E-mail me jxx1889@rit.edu (if you spot any errors)
 
 It was pointed out that ArrayLists can be instantiated by leaving out the <Double> in the constructor call like below:
 ```
